@@ -1,0 +1,9 @@
+# 開発ツールのローカル設定
+.claude/
+# Python
+__pycache__/
+*.pyc
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store

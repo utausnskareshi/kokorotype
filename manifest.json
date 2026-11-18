@@ -1,0 +1,18 @@
+{
+  "name": "ココロタイプ｜16タイプの性格診断",
+  "short_name": "ココロタイプ",
+  "description": "48の質問であなたの性格タイプ（16タイプ）を診断。男女のイラスト付きで、恋愛スタイルや相性のよい異性のタイプもわかります。",
+  "lang": "ja",
+  "dir": "ltr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f4ff",
+  "theme_color": "#f6f4ff",
+  "categories": ["entertainment", "lifestyle"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
